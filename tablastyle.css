@@ -1,0 +1,48 @@
+table th{
+    width: 10em;
+}
+.colorp{
+    background: #42f242;
+}
+.pizza{
+    background-image: url(pizza-napolitana.jpg);
+    background-size:contain;
+}
+
+.colore{
+    background:#f77a0d ;
+}
+.empanada{
+    background-image: url(empanada-jyq.jpg);
+    background-size: contain;
+    background-repeat:space;
+}
+
+.v-pizza{
+    text-orientation: upright;
+    writing-mode:vertical-rl;
+    font-size: 3rem;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 7px;
+    font-variant: small-caps;
+    color: #42f242
+    
+}
+
+.v-empanadas {
+    text-orientation: upright;
+    writing-mode:vertical-rl;
+    font-size: 3rem;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 7px;
+    font-variant: small-caps;
+    color:#f77a0d
+}
+
+.plato-v{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.plato{
+    background: #f77a0d;
+}
