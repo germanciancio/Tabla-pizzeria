@@ -1,8 +1,16 @@
+body{
+    background-color: black
+}
+
 table th{
     width: 10em;
+    color:white
+}
+table td{
+    color:white
 }
 .colorp{
-    background: #42f242;
+    background: #0ba40b;
 }
 .pizza{
     background-image: url(pizza-napolitana.jpg);
@@ -25,7 +33,7 @@ table th{
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     letter-spacing: 7px;
     font-variant: small-caps;
-    color: #42f242
+    color: #30e930
     
 }
 
